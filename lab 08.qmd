@@ -1,0 +1,15 @@
+---
+title: "lab-08"
+author: "Linzhuo Li"
+format: html
+---
+
+## assess my progress
+
+I learn to frame research questions to explore for insights and how to perform diagnostic checks on data.
+
+I found the Inspect step quite challenging. 
+
+I consulted [here](https://qtalr.github.io/qtalrkit/articles/recipe-8.html)
+
+I want to learn more about language of the SOTU.
