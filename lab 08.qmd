@@ -4,11 +4,15 @@ author: "Linzhuo Li"
 format: html
 ---
 
+<!--
+2024-04-29: Thanks for the submission, Linzhuo. I see that you've made reference to the exploratory data analysis (EDA) process, but your response is a bit short and doesn't provide much detail.
+-->
+
 ## assess my progress
 
 I learn to frame research questions to explore for insights and how to perform diagnostic checks on data.
 
-I found the Inspect step quite challenging. 
+I found the Inspect step quite challenging.
 
 I consulted [here](https://qtalr.github.io/qtalrkit/articles/recipe-8.html)
 
